@@ -5,6 +5,6 @@ https://www.guessthepin.com/
 
 requirements -
 python - {
-  requests
+  requests,
   bs4 (beautifulsoup)
 }
